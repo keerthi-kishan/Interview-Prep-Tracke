@@ -1,6 +1,12 @@
 # Interview-Prep-Tracker
+Team Members:
 
-This is an web application which helps for the preparation of interviews by providing previous years experiences of others and also by providing good programming questions to practice. 
+    * Tenali Keerthi Kishan
+    * Kolli Sai Teja
+    * Diaval Sai Vignesh
+    * Alluri Aravind Lenin
+
+This is an web application which helps for the preparation of interviews by providing previous years experiences of others and also by providing good programming questions to practice.
 
 ### Used Tech
 * Node.js
@@ -29,7 +35,7 @@ User can select any topics to pratice and he can also contrebute new question by
 
 ![alt text](./images/programming.png)
 
-Thi is the page showing all question of arrays topic. 
+Thi is the page showing all question of arrays topic.
 
 ![alt text](./images/questions.png)
 
